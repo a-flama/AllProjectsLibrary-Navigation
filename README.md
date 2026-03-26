@@ -22,6 +22,8 @@ Network Traffic Analysis and Incident Response utilizing Wireshark, Splunk, and 
 
 Cypher Project: https://github.com/a-flama/Python-Cypher [discontinued]
 
+Open-source Link Scanner (Chrome Extension: https://github.com/a-flama/Frontier-Link-Scanner
+
 ## Currently working on
 
-Open-source Link Scanner (Chrome Extension: https://github.com/a-flama/Frontier-Link-Scanner
+Build Security Engineering - 
