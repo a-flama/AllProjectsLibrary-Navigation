@@ -26,4 +26,4 @@ Open-source Link Scanner (Chrome Extension: https://github.com/a-flama/Frontier-
 
 ## Currently working on
 
-Build Security Engineering - 
+Learning
